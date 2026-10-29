@@ -1,0 +1,14 @@
+zone,utc_offset_on_launch_day,local_date,local_time,source_url
+"Pacific (PST)",UTC-8,2026-11-04,15:00,https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth
+"Central US (CST)",UTC-6,2026-11-04,17:00,https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth
+"Eastern US (EST)",UTC-5,2026-11-04,18:00,https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth
+"UTC",UTC+0,2026-11-04,23:00,https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth
+"UK and Ireland (GMT)",UTC+0,2026-11-04,23:00,https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth
+"Central Europe, including Vienna (CET)",UTC+1,2026-11-05,00:00,https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth
+"Tokyo (JST)",UTC+9,2026-11-05,08:00,https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth
+"Sydney (AEDT)",UTC+11,2026-11-05,10:00,https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth
+"Brazil, São Paulo (BRT)",UTC-3,2026-11-04,20:00,https://realmfirst.net/start-here/?from=github-launch-data
+"Eastern Europe (EET)",UTC+2,2026-11-05,01:00,https://realmfirst.net/start-here/?from=github-launch-data
+"Moscow (MSK)",UTC+3,2026-11-05,02:00,https://realmfirst.net/start-here/?from=github-launch-data
+"Korea and Japan (KST, JST)",UTC+9,2026-11-05,08:00,https://realmfirst.net/start-here/?from=github-launch-data
+"New Zealand (NZDT)",UTC+13,2026-11-05,12:00,https://realmfirst.net/start-here/?from=github-launch-data
