@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "WoW Forever launch data"
+abstract: "XP needed per level in World of Warcraft: Forever (client LevelExperience table), launch time by time zone, and addon status at launch, with a source for every row."
+type: dataset
+authors:
+  - name: "Realm First News Desk"
+    email: "news@realmfirst.net"
+    website: "https://realmfirst.net/"
+version: "2"
+date-released: "2026-11-20"
+license: CC-BY-4.0
+repository-code: "https://github.com/realmfirst/wow-forever-launch-data"
+url: "https://realmfirst.net/world-of-warcraft-forever/leveling-guide/wow-forever-xp-per-level/"
+keywords:
+  - "World of Warcraft: Forever"
+  - "WoW Forever"
+  - "XP per level"
+  - "experience table"
+  - "launch time"
